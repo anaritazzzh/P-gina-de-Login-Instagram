@@ -203,7 +203,6 @@ footer #footer-links {
   margin-top: 10px;
 }
 
-/* MOBILE */
 @media (max-width: 450px) {
   body {
     background-color: #fff;
